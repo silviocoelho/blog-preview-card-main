@@ -74,6 +74,10 @@ body {
     font-size: 2.3rem;
 }
 
+.title-link:hover {
+    color: var(--clr-yellow-bg-highlight);
+}
+
 .desc {
     color: var(--clr-grey-font);
 }
