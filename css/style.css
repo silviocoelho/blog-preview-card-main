@@ -95,3 +95,14 @@ body {
 .name {
     font-weight: 800;
 }
+
+@media (min-width: 680px) {
+    .hero_img{
+        height: auto;
+        margin-bottom: 1rem;
+    }
+
+    .card-container {
+        gap: 1.4rem;
+    }
+}
